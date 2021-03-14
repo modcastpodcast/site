@@ -1,3 +1,3 @@
 +++
-feature_image = "/banner.png"
+feature_image = "/site/banner.png"
 +++
